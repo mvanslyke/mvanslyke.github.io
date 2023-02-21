@@ -24,7 +24,7 @@ span {
 	font-style:	italic;
 }
 
-ul  { margin-top: -1em; }  
+ul  { margin-top: 0em; }  
 
 hr.rounded {
     border-top: 8px solid #bbb;
