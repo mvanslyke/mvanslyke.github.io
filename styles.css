@@ -30,3 +30,8 @@ hr.rounded {
     border-top: 8px solid #bbb;
     border-radius: 5px;
 }
+
+.dark-mode {
+	background-color: black;
+	color: #00ffff;
+}
